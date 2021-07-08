@@ -1,0 +1,30 @@
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.deps.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\ref\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csprojAssemblyReference.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.AssemblyInfoInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.AssemblyInfo.cs
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csproj.CoreCompileInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csproj.CopyComplete
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\ref\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.deps.json
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\ref\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csprojAssemblyReference.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.AssemblyInfoInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.AssemblyInfo.cs
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csproj.CoreCompileInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.csproj.CopyComplete
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\ref\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Data\obj\Debug\net5.0\Jewellery.Data.pdb

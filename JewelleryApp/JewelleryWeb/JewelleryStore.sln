@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelleryStore", "JewelleryStore.csproj", "{09EBEA0C-0266-49E7-BF93-144BE890EFC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewellery.Data", "..\JewelleryData\Jewellery.Data\Jewellery.Data.csproj", "{230D9BF5-680C-4010-A382-6EF8B10E13CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewellery.Migrations", "..\JewelleryData\Jewellery.Migration\Jewellery.Migrations.csproj", "{F38F6630-BFB7-43A8-8C58-1EDFB602CF56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jewellery.Enities", "..\JewelleryData\Jewellery.Model\Jewellery.Enities.csproj", "{35EB473A-1732-4974-A470-0FA93EC73EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelleryAppTest", "..\JewelleryAppTest\JewelleryAppTest.csproj", "{A923BCF7-9021-478F-8849-76906A7967B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09EBEA0C-0266-49E7-BF93-144BE890EFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EBEA0C-0266-49E7-BF93-144BE890EFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EBEA0C-0266-49E7-BF93-144BE890EFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EBEA0C-0266-49E7-BF93-144BE890EFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230D9BF5-680C-4010-A382-6EF8B10E13CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230D9BF5-680C-4010-A382-6EF8B10E13CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230D9BF5-680C-4010-A382-6EF8B10E13CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230D9BF5-680C-4010-A382-6EF8B10E13CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38F6630-BFB7-43A8-8C58-1EDFB602CF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F6630-BFB7-43A8-8C58-1EDFB602CF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F6630-BFB7-43A8-8C58-1EDFB602CF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F6630-BFB7-43A8-8C58-1EDFB602CF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EB473A-1732-4974-A470-0FA93EC73EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EB473A-1732-4974-A470-0FA93EC73EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EB473A-1732-4974-A470-0FA93EC73EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EB473A-1732-4974-A470-0FA93EC73EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A923BCF7-9021-478F-8849-76906A7967B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A923BCF7-9021-478F-8849-76906A7967B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A923BCF7-9021-478F-8849-76906A7967B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A923BCF7-9021-478F-8849-76906A7967B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {347BA7EB-98CA-448B-968D-B89330690188}
+	EndGlobalSection
+EndGlobal

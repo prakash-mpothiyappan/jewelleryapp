@@ -1,0 +1,146 @@
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.exe
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.deps.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.runtimeconfig.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.runtimeconfig.dev.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\ref\JewellryApp.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\JewellryApp.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.AssemblyInfoInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.AssemblyInfo.cs
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.csproj.CoreCompileInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\ref\JewellryApp.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.genruntimeconfig.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.csprojAssemblyReference.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\obj\Debug\net5.0\JewellryApp.csproj.CopyComplete
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Migrations.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\JewellryApp\bin\Debug\net5.0\Jewellery.Migrations.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.exe
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.deps.json
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.runtimeconfig.json
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.runtimeconfig.dev.json
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\ref\JewellryApp.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\JewellryApp.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Humanizer.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Migrations.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Migrations.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.csprojAssemblyReference.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.AssemblyInfoInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.AssemblyInfo.cs
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.csproj.CoreCompileInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.csproj.CopyComplete
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\ref\JewellryApp.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\JewellryApp\obj\Debug\net5.0\JewellryApp.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migration.csprojAssemblyReference.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migration.AssemblyInfoInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migration.AssemblyInfo.cs
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migration.csproj.CoreCompileInputs.cache

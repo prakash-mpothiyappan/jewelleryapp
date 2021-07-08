@@ -1,0 +1,34 @@
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.deps.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\ref\Jewellery.Migrations.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Data.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csprojAssemblyReference.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.AssemblyInfoInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.AssemblyInfo.cs
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csproj.CopyComplete
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\ref\Jewellery.Migrations.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.deps.json
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\ref\Jewellery.Migrations.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Migrations.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Data.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Enities.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Data.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\bin\Debug\net5.0\Jewellery.Enities.pdb
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csprojAssemblyReference.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.AssemblyInfoInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.AssemblyInfo.cs
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csproj.CoreCompileInputs.cache
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.csproj.CopyComplete
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\ref\Jewellery.Migrations.dll
+C:\D FOLDER\JewelleryApp\JewelleryData\Jewellery.Migration\obj\Debug\net5.0\Jewellery.Migrations.pdb

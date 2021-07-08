@@ -1,0 +1,12 @@
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\bin\Debug\net5.0\Jewellery.Model.deps.json
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\bin\Debug\net5.0\Jewellery.Model.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\bin\Debug\net5.0\ref\Jewellery.Model.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\bin\Debug\net5.0\Jewellery.Model.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.AssemblyInfoInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.AssemblyInfo.cs
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.csproj.CoreCompileInputs.cache
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\ref\Jewellery.Model.dll
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.pdb
+C:\Users\prakash.pothiyappan\source\repos\JewelleryEntity\Jewellery.Model\obj\Debug\net5.0\Jewellery.Model.csprojAssemblyReference.cache
